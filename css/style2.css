@@ -1,0 +1,56 @@
+body{
+    background-color: #04c2c2;
+}
+body{
+    font-family: Cairo,sans-serif!important;
+}
+
+
+.main{
+    display: flex;
+    justify-content: space-around;
+    width: 900px;
+    height: 100px;
+    align-items: center;
+    margin-top: 90px;
+   
+  }
+  h1{
+    color: #fff;
+    font-family: cursive;
+    margin-left: 40px;
+  }
+  h2{
+    font-size: 35px;
+    color:#fff;
+    font-family: cursive;
+  }
+  h4{
+      color: ;
+  }
+  i:first-of-type{
+      color: #f00;
+  }
+  /* .song{
+      margin-left:30px;
+
+  } */
+  header{
+    display: flex;
+    justify-content: space-between;
+  }
+  a{
+    margin-right: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  h3{
+      color: #000;
+      font-family: cursive;
+      font-size: 25px;
+  }
+  .music{
+      margin-bottom: 20px;
+      margin-left:50px;
+  }
